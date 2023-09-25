@@ -26,7 +26,7 @@ pip install uvicorn==0.14.0
 pip install bcrypt
 
 
-crear base de datos store db
+crear base de datos storedb
 usuario root pw 123456
 
 uvicorn app:app --reload
